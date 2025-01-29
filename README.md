@@ -1,10 +1,11 @@
-# Name of project
+# Portfolio Sajid Hussain
 
-> A longer description
+> This project showcases the professional portfolio of Sajid Hussain,
+> highlighting his skills, expertise,and accomplishments.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Name of project](# Portfolio SaJid Hussain)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -22,7 +23,7 @@
 
 ## General info
 
-> A short description
+> Professional portfolio of Sajid Hussain
 
 ## Screenshots
 
@@ -70,7 +71,7 @@ Project by freeCodeCamp.org
 
 ## Contact
 
-By [Name]
+Sajid Hussain
 
 ## Instructions for use
 
