@@ -2,16 +2,13 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+> The Portfolio of Sajid Hussain website will be a modern,professional and
+> functional and designed to showcase his skill,experience and projects.
 
 ---
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
+>
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![Portfolio-Sajid Hussain](./wirframe-design-portfolio.png)
